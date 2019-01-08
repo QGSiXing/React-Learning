@@ -1,0 +1,1 @@
+export const HOST = 'https://wxgcd.hengan.com:3000/api'
